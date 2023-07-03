@@ -98,8 +98,10 @@ Hackathon颁奖：**8月10日**
 #### 2. AI4Science硬核软件开发
 
 
+
 #### 3. AI for 生物医药
 
+[详细内容点击此处](https://dptechnology.feishu.cn/docx/S08Hddzo7oxsjsx6chlc4BAinEf?from=from_copylink)
 
 #### 4. AI for ElectroChemistry
 
