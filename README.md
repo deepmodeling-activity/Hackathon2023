@@ -113,7 +113,7 @@ Hackathon颁奖：**8月10日**
 ## 参与方式
 
 1. 扫描二维码加入Hackathon交流群，欢迎在群里交流一切Hackathon相关的问题。（请务必入群，后续通知都将在群内进行）
-![微信群](https://github.com/Letian88/Hackathon2023/assets/91178477/d9a98bcb-963a-4d27-92c2-e0b7e06342ab)
+![微信群](https://github.com/Letian88/Hackathon2023/assets/91178477/d9a98bcb-963a-4d27-92c2-e0b7e06342ab#pic_center =300x)
 
 如果二维码无法加入，可扫码添加深度势能小编微信：deeppotential，小编会手动拉你入群）
 
