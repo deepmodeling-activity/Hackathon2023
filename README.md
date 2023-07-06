@@ -91,23 +91,17 @@ Hackathon颁奖：**8月10日**
 
 #### 初赛赛题
 
-#### 1. AI4Science应用场景探索赛道
+#### 1. AI4Science应用场景探索赛道: [详细内容点击此处](https://dptechnology.feishu.cn/docx/G5IAdItjIonSi1xG8HBc6IWbnEb?from=from_copylink)
 
- [详细内容点击此处](https://dptechnology.feishu.cn/docx/G5IAdItjIonSi1xG8HBc6IWbnEb?from=from_copylink)
-
-#### 2. AI4Science硬核软件开发
-[详细内容点击此处](https://dptechnology.feishu.cn/docx/QGfHdUHrEowMi4xYkJuchN9Rnbh?from=from_copylink)
+#### 2. AI4Science硬核软件开发: [详细内容点击此处](https://dptechnology.feishu.cn/docx/QGfHdUHrEowMi4xYkJuchN9Rnbh?from=from_copylink)
 
 
-#### 3. AI for 生物医药
-
-[详细内容点击此处](https://dptechnology.feishu.cn/docx/S08Hddzo7oxsjsx6chlc4BAinEf?from=from_copylink)
+#### 3. AI for 生物医药: [详细内容点击此处](https://dptechnology.feishu.cn/docx/S08Hddzo7oxsjsx6chlc4BAinEf?from=from_copylink)
 
 #### 4. AI for ElectroChemistry
 
 
-#### 5. AI4Science布道
-[详细内容点击此处](https://dptechnology.feishu.cn/docx/Rl03dnIqqomF0Fx8FjgcVhnonRd)
+#### 5. AI4Science布道: [详细内容点击此处](https://dptechnology.feishu.cn/docx/Rl03dnIqqomF0Fx8FjgcVhnonRd)
 
 
 ## 参与方式
