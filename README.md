@@ -114,7 +114,7 @@ Hackathon颁奖：**8月10日**
 
 如果二维码无法加入，可扫码添加深度势能小编微信：deeppotential，小编会手动拉你入群）
 
-3. 请大家选择好赛道后，请在7月8日前扫描下方二维码，填写问卷报名。
+2. 请大家选择好赛道后，请在7月8日前扫描下方二维码，填写问卷报名。
 
 <img src="https://github.com/Letian88/Hackathon2023/assets/91178477/7ea4745d-f455-46cb-ba84-9b4736440ad9#pic_center=50x" width=25%>
 
