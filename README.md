@@ -2,7 +2,7 @@
 
 ## 活动介绍
 
-第三届DeepModeling Hackathon大赛北京科学智能研究院(AI for Science Institute, Beijing)与北京深势科技有限公司联合举办（[详情请点击这里](https://mp.weixin.qq.com/s?__biz=MzUxMDQwOTk4MA==&mid=2247497497&idx=1&sn=97499acbc2388e7ef7c6498b2caa89e1&chksm=f901da8ace76539ccea1fe3ed2b6f759fd22b1591ef8249a8f5ce2a278144334c91dc25a13bc&scene=21#wechat_redirect)）。
+第三届DeepModeling Hackathon大赛由北京科学智能研究院(AI for Science Institute, Beijing)与北京深势科技有限公司联合举办（[详情请点击这里](https://mp.weixin.qq.com/s?__biz=MzUxMDQwOTk4MA==&mid=2247497497&idx=1&sn=97499acbc2388e7ef7c6498b2caa89e1&chksm=f901da8ace76539ccea1fe3ed2b6f759fd22b1591ef8249a8f5ce2a278144334c91dc25a13bc&scene=21#wechat_redirect)。
 
 现在我们带着最大的诚意邀请所有人参与DeepModeling社区第三届Hackathon：
 
