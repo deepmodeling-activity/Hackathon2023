@@ -1,4 +1,4 @@
-#Background of the competition question
+# Background of the competition question
 
 The AI4EC track is jointly hosted by the DeepModeling open-source community and the Jiageng Innovation Laboratory Artificial Intelligence Applied Electrochemistry Joint Laboratory (AI4EC). The aim is to encourage players who wish to explore **the electrochemical properties of various materials in the battery field** to use AI4Science related software tools to develop workflows for calculating properties such as material redox potential and reaction free energy in a certain system or environment; It can also be used to solve a specific problem. In short, if you are eager to use materials to continuously define energy, welcome to join the AI for Electrochemistry exploration journey!
 
