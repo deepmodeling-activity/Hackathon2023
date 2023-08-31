@@ -17,7 +17,7 @@ Contestants who choose this track need to submit their own proposals in the prel
 
 ## 2. Reference questions
 
-#### Question background description
+### Question background description
 
 
 Quantitative structure-activity relationship (QSAR) is to study the relationship between the activity, toxicity, pharmacokinetic properties of a group of compounds and their structure (structural), physicochemical properties (physicochemical), topological structure (topological), etc. relationship, and a research method characterized by a mathematical statistical model. In recent decades, with the accumulation of a large amount of drug-related data, QSAR-based drug design and discovery methods have shifted to utilizing large-scale data sources and molecular descriptor libraries, using more machine learning algorithms to automatically generate predictive models. However, the accuracy of QSAR models is still largely limited by the molecular representation methods. Specifically, molecular representation methods include machine-readable molecular representation, string representation, chemical table representation, feature-based representation, etc. Commonly used methods generally rely on 2D, which makes the model unable to learn ligand molecules in three-dimensional space information.
