@@ -8,7 +8,7 @@ The AI for Life Sciences track encourages contestants to use AI4Science related 
 
 **The questions on this track are divided into two parts: free questions and fixed questions. We especially encourage everyone to do free propositions, as long as any ideas related to biomedicine are very welcome; of course, if you are at a loss for free propositions, you can also participate in the fixed proposition track and use your creativity and talent under the specified proposition.**
 
-## 1. Free proposition
+## 1. Free questions
 
 Contestants in this track have full creative freedom, and can choose issues that everyone cares about in the field of biomedicine, and use AI4Science related algorithms and tools to explore.
 
