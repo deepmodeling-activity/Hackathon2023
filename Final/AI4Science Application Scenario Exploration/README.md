@@ -22,7 +22,7 @@ Contestants complete the final project based on the proposal content of the prel
 
 Submit the full content as a Bohrium Notebook or as an attachment
 
-## Reference Topics
+## Fixed competition questions
 
 ### Topic 1: Uni-Mol X: Using pre-trained models to explore new applications of 3D molecular representation learning
 
@@ -36,7 +36,7 @@ Your task is to use the Uni-Mol framework to develop a new downstream applicatio
 
 In this challenge, we invite you to explore new applications of molecular representation learning using Uni-Mol, a universal molecular representation learning framework based on molecular three-dimensional structures, combined with your own innovative thinking (i.e. "X"). You can choose any field of interest you in, including but not limited to drug design, materials science, environmental science, etc. The following two examples can give you some inspiration.
 
-## competition questions
+#### Reference case
 
 Uni-Mol properties predict the dielectric constant of the electrolyte molecule in practice-regression mission: https://nb.bohrium.dp.tech/detail/1033
 
