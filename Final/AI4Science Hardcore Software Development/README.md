@@ -8,7 +8,7 @@ AI4Science hardcore software development track is co-hosted by the DeepModeling 
 
 
 
-## Free proposition
+## Free compitition questions
 
 Runners on this track have full creative freedom and can choose any ideas related to AI4Science hardcore software development. Including but not limited to:
 
@@ -20,11 +20,9 @@ Runners on this track have full creative freedom and can choose any ideas relate
 Runners who choose this track need to submit their own proposals in the preliminary stage to describe their ideas and initially confirm the feasibility of the idea (the judging team will also give some constructive guidance suggestions to facilitate better implementation).
 
 
-
-## Specify the question
+## Fixed compitition questions
 
 ### Question 1: High-performance cross-platform neighbor table algorithm implementation
-
 
 - Neighborlist is of great significance in computational chemistry and has important applications in first-principles calculations, molecular dynamics simulation, and other fields. A proximity table is a data structure used to represent local relationships or proximity relationships between objects, records the indexes of adjacent particles within a certain truncation radius, and dynamically updates with the movement of atoms during simulation.Therefore, both the calculation of short-range interactions and the statistics of local structural properties directly depend on the proximity table. Therefore, the advantages and disadvantages of the algorithm established by the adjacent table will significantly affect the computing efficiency. We have come to realize that different scientific computing projects have common neighbor table requirements and can be abstracted into algorithms with explicit inputs and outputs. In addition, due to the complexity and specificity of scientific software, programs not only rely strongly on GPUs like deep learning frameworks, but also need to run on heterogeneous acceleration platforms of various architectures. Can we abstract the adjacent table and highly optimize it to form a highly optimized library from Python, C to CUDA, from x86, ARM to various heterogeneous acceleration platforms, so as to reduce repetitive development.
 
