@@ -29,7 +29,7 @@ Uni-Mol is a versatile framework for 3D molecular representation, which directly
 Now, we encourage contestants to further explore using the 3D molecular representation framework Uni-Mol to solve more practical problems in drug design and discovery scenarios. The competition questions are as follows.
 
 
-- Question 1: Protein Target Prediction
+- **Question 1: Protein Target Prediction**
 
 
 The identification of physical interactions between drug candidates and target proteins is a critical step in drug discovery. Statistically, current knowledge about the drug-protein space is rather limited, so new approaches are needed to expand our understanding. Published studies have shown that protein target prediction is an open problem that requires not only new algorithms but also new representations to elucidate the unexplored drug-target interaction (DTI) space and other related tasks, typical examples Includes kinase profile prediction. 
@@ -37,7 +37,7 @@ The identification of physical interactions between drug candidates and target p
 In the preliminary competition, we encourage contestants to propose solutions based on the 3D molecular representation Uni-Mol framework we developed. Uni-Mol combines molecular and pocket pre-trained models, learns scoring functions based on distance matrices, and then samples and optimizes the complex conformation to predict protein-ligand binding.
 
 
-- Question 2: Property prediction
+- **Question 2: Property prediction**
 
 
 The goal of molecular property prediction is to learn a generalizable model from a set of known compounds that can be applied to new molecules. This usually involves systematically designing or selecting descriptors as input for supervised machine learning model training. For example, Dahl et al. and Mayr et al. reported successful ADMET predictions using deep neural networks (DNNs) on the tox21 challenge dataset. Uni-Mol has also performed experiments in the important task of molecular property prediction, which has attracted a lot of attention from artificial intelligence (AI) practitioners. It demonstrates superior performance compared to state-of-the-art (SOTA) methods on various properties and datasets. In the preliminary competition, we encourage contestants to develop a molecular property prediction model for a specific scenario based on Uni-Mol, or to propose a better general solution.
