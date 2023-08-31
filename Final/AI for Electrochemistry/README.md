@@ -14,7 +14,7 @@ The contestants on this track have full creative freedom and can choose any idea
 
 Players who choose this track need to submit their proposal during the preliminary stage to describe their idea and preliminarily confirm its feasibility (the evaluation team will also provide constructive guidance and suggestions for better implementation).
 
-## 2. fixed questions
+## 2. Fixed questions
 
 #### **Contest questions**
 
