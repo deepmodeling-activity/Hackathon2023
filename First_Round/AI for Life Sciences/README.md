@@ -6,7 +6,7 @@ Drug discovery utilizes a wide range of technologies to guide novel disease-rele
 The AI ​​for Life Sciences track encourages contestants to use AI4Science related software tools to try to solve problems of general concern in the field of biomedicine. It is hoped that the contestants can propose solutions to the existing application scenarios in the field of biomedicine, such as various property predictions, target predictions, combination mode exploration and molecular generation and other practical scenarios; at the same time, contestants are encouraged to try to use different software and tools, such as Uni -Mol explores a certain field in depth - in short, as long as it is related to AI4Science and biomedicine, all explorations are encouraged here!
 
 
-**The questions on this track are divided into two parts: free questions and fixed questions. We especially encourage everyone to do free propositions, as long as any ideas related to biomedicine are very welcome; of course, if you are at a loss for free propositions, you can also participate in the fixed proposition track and use your creativity and talent under the specified proposition. **
+**The questions on this track are divided into two parts: free questions and fixed questions. We especially encourage everyone to do free propositions, as long as any ideas related to biomedicine are very welcome; of course, if you are at a loss for free propositions, you can also participate in the fixed proposition track and use your creativity and talent under the specified proposition.**
 
 ## 1. Free proposition
 
