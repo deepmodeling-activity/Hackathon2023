@@ -73,7 +73,7 @@ In short, this direction encourages content producers to use rich content creati
 
 ## Final exchange activities:
 
-"Evangelist Face to Face"
+**Evangelist Face to Face**
 
 We understand that many students have some doubts about evangelism work, such as:
 
@@ -83,6 +83,12 @@ We understand that many students have some doubts about evangelism work, such as
 
 3. Not sure if there are any scientific flaws in your sermons
 
-In order to help everyone solve the above problems, we decided to launch an informal 👨🏻‍🏫preacher face-to-face👩🏻‍🏫 event. The specific arrangements are as follows:
+In order to help everyone solve the above problems, we decided to launch an informal Evangelist face-to-faceevent. The specific arrangements are as follows:
 
 [Click here to view the details](https://ucoyxk075n.feishu.cn/docx/VA7QdoF2zorT5kxUbWAcs7jrn9g)
+
+**[Activity time]**
+
+August 1, 2023, 7:30 pm
+July 26, 2023, 7:30 pm
+July 24, 2023, 7:30 pm
