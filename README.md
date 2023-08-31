@@ -54,13 +54,13 @@ The above is the overall track classification of Hackathon. All ideas related to
 
 In order to encourage everyone to quickly learn relevant knowledge in the Hackathon and actively display the spirit of innovation, this Hackathon has set up preliminary and final competitions, and adopts a team system. The details are as follows:
 
-- Preliminary round:
+- **Preliminary round**:
 
    - Format: Online Participation
 
    - Focus on student learning, quickly learn and master AI4Science related knowledge and software skills with our help, and prepare for the final
 
-- Finals:
+- **Finals**:
 
    - Form: Online is allowed, but offline joint exploration and communication is more encouraged (finalists will be reimbursed offline round-trip tickets to relevant venues)
 
