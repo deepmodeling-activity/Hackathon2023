@@ -24,7 +24,7 @@ Submit the full content as a Bohrium Notebook or as an attachment
 
 ## Fixed competition questions
 
-### Topic 1: Uni-Mol X: Using pre-trained models to explore new applications of 3D molecular representation learning
+### question 1: Uni-Mol X: Using pre-trained models to explore new applications of 3D molecular representation learning
 
 Pre-trained models are taking multiple domains by storm. Extracting representation information from large-scale unlabeled data and then performing supervised learning on small-scale labeled downstream tasks is becoming a factual solution in many fields. How are pre-trained models built and applied in the field of drug and materials design? In May 2022, Uni-Mol, an open-source general molecular representation learning framework based on molecular three-dimensional structure, was officially published, and the paper was accepted by ICLR 2023. Unlike previous frameworks for molecular characterization based on 1D sequence or 2D map structures, Uni-Mol directly utilizes the 3D structure of molecules as model input. Uni-Mol has superior performance and strong model generalization ability, which surpasses existing solutions in small molecule property prediction, protein target prediction, protein-ligand complex conformation prediction, quantum chemical property prediction, MOF material adsorption performance prediction, OLED luminescent material performance prediction and other tasks.
 
@@ -68,7 +68,7 @@ Uni-Mol ：https://arxiv.org/abs/2303.16982
 
 Submit the full content as a Bohrium Notebook or as an attachment
 
-### Topic 2: dflow X: Developing AI4Science cloud-native workflows
+### question 2: dflow X: Developing AI4Science cloud-native workflows
 
 dflow is an open-source Python development framework for scientific computing workflow developers using the cloud-native project Argo as a workflow engine.
 
