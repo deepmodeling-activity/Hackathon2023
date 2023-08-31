@@ -51,7 +51,7 @@ Runners who choose this track need to submit their own proposals in the prelimin
 - In combustion simulations, calculations to update thermodynamic states and transport parameters are a key step. In engineering applications, processes such as incident of working fluids, mixing, and combustion occur at least partially in a transcritical or supercritical state, which may render the ideal gas model commonly used in combustion simulations no longer applicable.Although the accuracy of combustion simulations can be improved by introducing formally more complex real fluid models, this will lead to an increase in simulation complexity and a significant increase in computation, and quantitatively, updating thermodynamic functions and transport parameters with real gas models will take up 50% to 75% of the total calculation time of the large eddy simulation.
 
 
-DeepFlame—DeepFGM framework
+**Question 5: DeepFlame—DeepFGM framework**
 
 - Flamelet Generated Model (FGM) is a combustion model that uses precomputed flames to represent the structure of flames in turbulent reactive streams. It provides an efficient calculation method for simulating complex combustion processes and is widely used in CFD simulation of combustion systems. Using the FGM model requires flame surface data calculated based on lookup tables.However, when there are many reaction components, and as the dimension of the variable increases, the memory occupied by the table used for calculation will be very large. DeepFGM, a turbulent combustion integral (TCI) model included in DeepFlame, will generate a tailored neural network based on every physical quantity used in the calculations in the table, ultimately reducing the overall memory footprint.
 
