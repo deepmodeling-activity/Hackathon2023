@@ -4,7 +4,7 @@ In this track, we encourage players to explore and extend the application of AI4
 
 This track is divided into two parts: free proposition and fixed proposition. We especially encourage everyone to do free propositions, as long as any ideas related to AI4Science are very welcome; Of course, if you are overwhelmed by free propositions, you can also participate in the fixed proposition track and exert your creativity and talent under the designated propositions.
 
-## Free Questions
+## Free competition questions
 
 Runners on this track have full creative freedom and can choose any idea related to AI4Science. Including but not limited to:
 
@@ -36,7 +36,7 @@ Your task is to use the Uni-Mol framework to develop a new downstream applicatio
 
 In this challenge, we invite you to explore new applications of molecular representation learning using Uni-Mol, a universal molecular representation learning framework based on molecular three-dimensional structures, combined with your own innovative thinking (i.e. "X"). You can choose any field of interest you in, including but not limited to drug design, materials science, environmental science, etc. The following two examples can give you some inspiration.
 
-#### Reference Case
+## competition questions
 
 Uni-Mol properties predict the dielectric constant of the electrolyte molecule in practice-regression mission: https://nb.bohrium.dp.tech/detail/1033
 
