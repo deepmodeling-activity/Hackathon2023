@@ -90,5 +90,7 @@ In order to help everyone solve the above problems, we decided to launch an info
 **[Activity time]**
 
 August 1, 2023, 7:30 pm
+
 July 26, 2023, 7:30 pm
+
 July 24, 2023, 7:30 pm
