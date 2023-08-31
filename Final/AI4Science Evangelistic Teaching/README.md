@@ -1,3 +1,6 @@
+
+
+
 # Question background
 
 In recent years, we are pleased to see many breakthroughs in the field of AI4Science, such as Alpha-Fold, which solves protein folding problems, DeePMD-kit, which simulates the movement of 100 million atoms with high precision, and DPA-1, a pre-trained model covering the periodic table of elements. Maximize multiple materials and large-scale models Uni-Mol for biomedical tasks, etc. We firmly believe that AI tools will set off a new wave in the field of natural science, and AI4Science scientific research results will affect the lives of each of us. 
@@ -67,3 +70,19 @@ A number of excellent popular science works have already emerged in today's huge
 In short, this direction encourages content producers to use rich content creation experience and cool visualization technology to make AI4Science cool!
 
 [Click here to view the detailed competition content](https://dptechnology.feishu.cn/docx/Rl03dnIqqomF0Fx8FjgcVhnonRd?from=from_copylink)
+
+## Final exchange activities:
+
+"Evangelist Face to Face"
+
+We understand that many students have some doubts about evangelism work, such as:
+
+1. I don’t know whether my sermon works can be successfully digested by newcomers in the field.
+
+2. Encountered technical problems, such as operating problems related to NoteBook, etc.
+
+3. Not sure if there are any scientific flaws in your sermons
+
+In order to help everyone solve the above problems, we decided to launch an informal 👨🏻‍🏫preacher face-to-face👩🏻‍🏫 event. The specific arrangements are as follows:
+
+[Click here to view the details](https://ucoyxk075n.feishu.cn/docx/VA7QdoF2zorT5kxUbWAcs7jrn9g)
