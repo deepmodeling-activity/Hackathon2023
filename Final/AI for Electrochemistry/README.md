@@ -4,7 +4,7 @@ The AI4EC track is jointly hosted by the DeepModeling open-source community and 
 
 **The questions on this track are divided into two parts: free questions and fixed questions. We particularly encourage everyone to do free propositions, and any creativity related to AI4EC is very welcome; Of course, if you are unsure of what to do with free propositions, you can also participate in fixed proposition races and showcase your creativity and talent under designated propositions**
 
-## 1. Free questions
+## 1. Free competition questions
 
 The contestants on this track have full creative freedom and can choose any ideas related to AI4EC to complete. Including but not limited to:
 
@@ -14,7 +14,7 @@ The contestants on this track have full creative freedom and can choose any idea
 
 Players who choose this track need to submit their proposal during the preliminary stage to describe their idea and preliminarily confirm its feasibility (the evaluation team will also provide constructive guidance and suggestions for better implementation).
 
-## 2. Fixed questions
+## 2. Fixed competition questions
 
 #### **Contest questions**
 
