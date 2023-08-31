@@ -1,46 +1,46 @@
-# 赛题背景
+# Question background
 
-药物发现利用广泛的技术引导了与疾病相关的新型化学实体进入临床环境，以满足患者未得到满足的需求。虽然许多传统技术方法被用于“湿”实验，但最近几十年，计算方法的开发和应用已经被广泛应用。近年来，人工智能，特别是机器学习方法的复兴，加速了药物发现过程，提高了临床前研发效率[1]。
-
-
-AI for Life Sciences赛道鼓励选手针对生物医药领域普遍关心的问题，使用AI4Science相关软件工具尝试解决。希望选手能够可以针对生物医药领域中目前已有的应用场景提出解决方案，如各种性质预测，靶标预测，结合模式探究及分子生成等实际场景；同时鼓励选手尝试使用不同软件与工具，比如Uni-Mol深入探索某个领域——总之只要是和AI4Science与生物医药有关的一切探索在这里都被鼓励！
+Drug discovery utilizes a wide range of technologies to guide novel disease-relevant chemical entities into the clinical setting to address unmet patient needs. While many traditional technical methods are used in "wet" experiments, the development and application of computational methods has been widely used in recent decades. In recent years, the revival of artificial intelligence, especially machine learning methods, has accelerated the drug discovery process and improved the efficiency of preclinical development.
 
 
-**本赛道赛题分为自由命题和固定命题两个部分。我们特别鼓励大家做自由命题，只要和生物医药相关的任何创意都非常欢迎；当然如果大家对自由命题不知所措，也可以参与固定命题赛道，在指定的命题下发挥自己的创意与才华。**
-
-## 1. 自由命题
-
-本赛道的选手拥有充分的创意自由，可以选择生物医药领域大家关心的问题，使用AI4Science相关算法和工具进行探索。
+The AI ​​for Life Sciences track encourages contestants to use AI4Science related software tools to try to solve problems of general concern in the field of biomedicine. It is hoped that the contestants can propose solutions to the existing application scenarios in the field of biomedicine, such as various property predictions, target predictions, combination mode exploration and molecular generation and other practical scenarios; at the same time, contestants are encouraged to try to use different software and tools, such as Uni -Mol explores a certain field in depth - in short, as long as it is related to AI4Science and biomedicine, all explorations are encouraged here!
 
 
-选择这个赛道的选手，需要在初赛阶段提交自己的proposal来描述自己的想法并初步证实该想法可行性（评审组也会给出一些建设性的指导建议，方便更好的实现）。
+**The questions on this track are divided into two parts: free questions and fixed questions. We especially encourage everyone to do free propositions, as long as any ideas related to biomedicine are very welcome; of course, if you are at a loss for free propositions, you can also participate in the fixed proposition track and use your creativity and talent under the specified proposition.**
 
-## 2. 参考题目
+## 1. Free proposition
 
-#### 题目背景描述
-
-
-定量构效关系（quantitative structure-activity relationships，QSAR），是研究一组化合物的活性、毒性、药代性质与其结构（structural）、物理化学性质（physicochemical）、拓扑结构（topological）等之间的相关关系，并用数理统计模型加以表征的研究方法。近几十年来，随着药物相关数据的大量积累，基于QSAR的药物设计与发现方法已转向利用大规模数据源和分子描述符库，使用更多的机器学习算法自动生成预测模型。然而，QSAR模型的准确性在很大程度上依然受限于分子表示方法。具体来说，分子表示方法包括类机器可读的分子表示、字符串表示、化学表表示、基于特征的表示等，常用的方法一般依赖于2D，导致模型无法学习到三维空间下的配体分子信息。
+Contestants in this track have full creative freedom, and can choose issues that everyone cares about in the field of biomedicine, and use AI4Science related algorithms and tools to explore.
 
 
-Uni-Mol是一个用于三维分子表示的多功能框架，在训练过程中直接利用分子的三维信息，极大地增强了模型的表现力和适用性。Uni-Mol包含两个具有相同架构的模型：一个是分子预训练模型，其在一个包含2.09亿个分子构象的数据集上进行训练；一个是口袋预训练模型，在一个包含300万个蛋白质口袋的数据集上进行训练。此外，Uni-Mol的模型架构满足SE(3)等变性。在下游实验中，Uni-Mol不仅在先前研究过的分子性质预测任务中达到了最先进的性能，而且在与药物发现相关的一系列下游任务中表现出色，特别是那些涉及了与三维信息高度相关的任务。这些任务的例子包括高精度分子构象生成、蛋白质-配体结合构象预测和蛋白质口袋属性预测。Uni-Mol在诸如小分子性质预测、蛋白质靶点预测、蛋白质-配体复合物构象预测和量子化学性质预测等任务中表现出优越的性能和强大的泛化能力，超越了现有的解决方案。
+Contestants who choose this track need to submit their own proposals in the preliminary stage to describe their ideas and initially confirm the feasibility of the idea (the review team will also give some constructive guidance and suggestions to facilitate better implementation).
+
+## 2. Reference questions
+
+### Question background description
 
 
-现在，我们鼓励选手进一步地探索采用3D分子表示框架Uni-Mol解决更多药物设计与发现具体场景的实际难题，赛题参考如下。
+Quantitative structure-activity relationship (QSAR) is to study the relationship between the activity, toxicity, pharmacokinetic properties of a group of compounds and their structure (structural), physicochemical properties (physicochemical), topological structure (topological), etc. relationship, and a research method characterized by a mathematical statistical model. In recent decades, with the accumulation of a large amount of drug-related data, QSAR-based drug design and discovery methods have shifted to utilizing large-scale data sources and molecular descriptor libraries, using more machine learning algorithms to automatically generate predictive models. However, the accuracy of QSAR models is still largely limited by the molecular representation methods. Specifically, molecular representation methods include machine-readable molecular representation, string representation, chemical table representation, feature-based representation, etc. Commonly used methods generally rely on 2D, which makes the model unable to learn ligand molecules in three-dimensional space information.
 
 
-- **赛题一：蛋白质靶点预测**
+Uni-Mol is a versatile framework for 3D molecular representation, which directly utilizes the 3D information of molecules during training, greatly enhancing the expressiveness and applicability of the model. Uni-Mol consists of two models with the same architecture: one is a molecular pre-training model trained on a dataset of 209 million molecular conformations; the other is a pocket pre-training model on a dataset of 3 million protein pockets. training on the data set. In addition, the model architecture of Uni-Mol satisfies variability such as SE(3). In downstream experiments, Uni-Mol not only achieves state-of-the-art performance in previously studied molecular property prediction tasks, but also excels in a range of downstream tasks related to drug discovery, especially those involving highly correlated 3D information. related tasks. Examples of these tasks include high-precision molecular conformation generation, protein-ligand binding conformation prediction, and protein pocket property prediction. Uni-Mol has demonstrated superior performance and strong generalization capabilities in tasks such as small molecule property prediction, protein target prediction, protein-ligand complex conformation prediction, and quantum chemical property prediction, surpassing existing solutions .
 
 
-药物候选物与靶蛋白之间物理相互作用的识别是药物发现中的关键环节。根据统计数据，目前关于药物-蛋白质空间的知识相当有限，因此需要新的方法来扩展我们的理解。已经发表的研究表明，蛋白质靶点预测是一个开放性问题，不仅需要新算法，还需要新的表示方法来阐明尚未探索的药物-靶点相互作用（DTI）空间和其他相关任务，典型的例子包括激酶谱预测。在初赛中，我们鼓励选手基于我们所开发的3D分子表示Uni-Mol框架提出解决方案，Uni-Mol结合了分子和口袋预训练模型，学习基于距离矩阵的评分函数，而后通过采样和优化复合物构象来实现蛋白质-配体结合的预测。
+Now, we encourage contestants to further explore using the 3D molecular representation framework Uni-Mol to solve more practical problems in drug design and discovery scenarios. The competition questions are as follows.
 
 
-- **赛题二：性质预测**
+- **Question 1: Protein Target Prediction**
 
 
-分子性质预测的目标是从一组已知化合物中学习一个可泛化的模型，该模型可以应用于新的分子。这通常涉及系统地设计或选择描述符作为监督式机器学习模型训练的输入。例如，Dahl等[2]和Mayr等[3]报告了在tox21挑战数据集上应用深度神经网络（DNNs）成功进行ADMET预测。Uni-Mol也在分子性质预测这一重要任务中进行了实验，吸引了人工智能（AI）从业者的大量关注。它在各种性质和数据集上相较于最先进（SOTA）方法表现出优越的性能。在初赛中，我们鼓励选手基于Uni-Mol开发面向某一具体场景的分子性质预测模型，或者提出更优的通用解决方案。
+The identification of physical interactions between drug candidates and target proteins is a critical step in drug discovery. Statistically, current knowledge about the drug-protein space is rather limited, so new approaches are needed to expand our understanding. Published studies have shown that protein target prediction is an open problem that requires not only new algorithms but also new representations to elucidate the unexplored drug-target interaction (DTI) space and other related tasks, typical examples Includes kinase profile prediction. 
+
+In the preliminary competition, we encourage contestants to propose solutions based on the 3D molecular representation Uni-Mol framework we developed. Uni-Mol combines molecular and pocket pre-trained models, learns scoring functions based on distance matrices, and then samples and optimizes the complex conformation to predict protein-ligand binding.
 
 
-**[点击此处即可查看详细赛题内容](https://dptechnology.feishu.cn/docx/S08Hddzo7oxsjsx6chlc4BAinEf?from=from_copylink)
+- **Question 2: Property prediction**
 
 
+The goal of molecular property prediction is to learn a generalizable model from a set of known compounds that can be applied to new molecules. This usually involves systematically designing or selecting descriptors as input for supervised machine learning model training. For example, Dahl et al. and Mayr et al. reported successful ADMET predictions using deep neural networks (DNNs) on the tox21 challenge dataset. Uni-Mol has also performed experiments in the important task of molecular property prediction, which has attracted a lot of attention from artificial intelligence (AI) practitioners. It demonstrates superior performance compared to state-of-the-art (SOTA) methods on various properties and datasets. In the preliminary competition, we encourage contestants to develop a molecular property prediction model for a specific scenario based on Uni-Mol, or to propose a better general solution.
+
+
+[Click here to view the detailed competition content](https://dptechnology.feishu.cn/docx/S08Hddzo7oxsjsx6chlc4BAinEf?from=from_copylink)

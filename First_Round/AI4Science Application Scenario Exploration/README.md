@@ -1,41 +1,38 @@
-# 赛题背景
+# Question background
 
-随着AI4Science蓬勃发展，我们看到了一系列具备巨大潜力的软件，比如**DeePMD-kit**、**ABACUS**、**DMFF**、**Uni-Mol**、**DeepFlame**等。这些软件目前已经在很多领域具备了非常令人惊叹的表现，比如DeePMD-kit成功模拟1亿原子运动，比如Uni-Mol在预测MOF材料、OLED材料性质方面优秀表现等。然而实际上AI4Science的前景远不止于此，我们认为未来大量的领域都有可能被AI4Science进行重构，而这个过程当中一定会产生一系列振奋人心的成果。
-
-
-因此在本赛道，我们鼓励各位选手们探索并延伸AI4Science在不同场景中的应用。这种探索可以是使用更先进的算法探索某个场景，比如使用AI4Science的方式探索自己的课题；也可以针对相关场景的特殊性，对相关算法进行定制化的开发，让算法适配更多的应用场景；还可以在这些基础上开发更方便用户使用的用户接口和工作流。我们一起探索AI4Science应用的种种可能性，并在这个过程中加深自己对领域知识的理解。
+With AI4Science booming, we see a series of software with great potential, such as **DeePMD-kit**, **ABACUS**, **DMFF**, **Uni-Mol**, **DeepFlame** wait. These softwares have achieved amazing performance in many fields, such as DeePMD-kit successfully simulating the movement of 100 million atoms, such as Uni-Mol's excellent performance in predicting the properties of MOF materials and OLED materials. However, in fact, the prospect of AI4Science is far more than that. We believe that a large number of fields in the future may be restructured by AI4Science, and a series of exciting results will definitely be produced in this process.
 
 
-**本赛道赛题分为自由命题和固定命题两个部分。我们特别鼓励大家做自由命题，只要和AI4Science相关的任何创意都非常欢迎；当然如果大家对自由命题不知所措，也可以参与固定命题赛道，在指定的命题下发挥自己的创意与才华。**
+Therefore, in this track, we encourage all contestants to explore and extend the application of AI4Science in different scenarios. This kind of exploration can be to use more advanced algorithms to explore a certain scene, such as using AI4Science to explore your own topics; you can also customize the development of related algorithms according to the particularity of related scenes, so that the algorithm can adapt to more Application scenarios; user interfaces and workflows that are more user-friendly can also be developed based on these. Let's explore the various possibilities of AI4Science applications together, and deepen our understanding of domain knowledge in the process.
 
 
-## 1. 自由命题
-
-本赛道的选手拥有充分的创意自由，可以选择任意和AI4Science相关的想法来完成。包括但不限于：
+**The questions on this track are divided into two parts: free questions and fixed questions. We especially encourage everyone to do free propositions, as long as any ideas related to AI4Science are very welcome; of course, if you are at a loss for free propositions, you can also participate in the fixed proposition track and use your creativity and talent under the specified proposition.**
 
 
-- 场景探索：使用AI4Science的算法或软件，探索一些实际应用场景
+## 1. Free proposition
 
-- 工作流开发类：围绕一些常见场景，开发AI4Science工作流（推荐使用dflow搭建相关工作流，但是不强制）
-
-
-选择这个赛道的选手，需要在初赛阶段提交自己的proposal来描述自己的想法并初步证实该想法可行性（评审组也会给出一些建设性的指导建议，方便更好的实现）。
-
-## 2. 参考题目
-
-- **赛题一：Uni-Mol+X：利用预训练模型探索3D分子表示学习的新应用**
+Competitors in this track have full creative freedom and can choose any AI4Science-related ideas to complete. including but not limited to:
 
 
-- **赛题二：dflow + X：开发AI4Science云原生工作流**
+- **Scenario exploration**: Use AI4Science’s algorithms or software to explore some practical application scenarios
+
+- **Workflow development category**: develop AI4Science workflow around some common scenarios (it is recommended to use dflow to build related workflows, but it is not mandatory)
 
 
-- **赛题三：DMFF：LJ势参数调节**
+Contestants who choose this track need to submit their own proposals in the preliminary stage to describe their ideas and initially confirm the feasibility of the idea (the review team will also give some constructive guidance and suggestions to facilitate better implementation).
+
+## 2. Reference questions
+
+- **Question 1: Uni-Mol X: Using pre-trained models to explore new applications of 3D molecular representation learning**
 
 
-- **赛题四：DeepFlame：求解一维对冲扩散火焰**
+- **Question 2: dflow X: Develop AI4Science Cloud Native Workflow**
 
 
-**[点击此处即可查看详细赛题内容](https://dptechnology.feishu.cn/docx/G5IAdItjIonSi1xG8HBc6IWbnEb?from=from_copylink)**
+- **Question 3: DMFF: LJ potential parameter adjustment**
 
 
-  
+- **Question 4: DeepFlame: Solve the one-dimensional hedging diffusion flame**
+
+
+[Click here to view the detailed competition content](https://dptechnology.feishu.cn/docx/G5IAdItjIonSi1xG8HBc6IWbnEb?from=from_copylink)

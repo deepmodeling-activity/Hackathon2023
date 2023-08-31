@@ -1,60 +1,69 @@
-# 赛题背景
+# Question background
 
-近年来，我们欣喜的看到AI4Science领域取得了诸多突破性进展，例如破解蛋白质折叠难题的Alpha-Fold、高精度模拟1亿原子运动的DeePMD-kit、覆盖元素周期表的预训练模型DPA-1、刷爆多项材料和生物医药任务的大模型Uni-Mol等。我们坚信AI工具将在自然科学领域掀起新的浪潮，AI4Science科研成果将影响我们每个人的生活。令人遗憾的是，这些充满未来感的成就受制于其“阳春白雪”的科学属性，缺少了些“烟火气”，未能像ChatGPT那样进入市井人家成为茶余饭后的谈资。对此，我们诚挚的邀请各位布道者和DeepModeling社区一起，在这个盛夏，把AI4Science知识灵动起来！共同释放AI4Science无限可能！
+In recent years, we are pleased to see many breakthroughs in the field of AI4Science, such as Alpha-Fold, which solves protein folding problems, DeePMD-kit, which simulates the movement of 100 million atoms with high precision, and DPA-1, a pre-trained model covering the periodic table of elements. Maximize multiple materials and large-scale models Uni-Mol for biomedical tasks, etc. We firmly believe that AI tools will set off a new wave in the field of natural science, and AI4Science scientific research results will affect the lives of each of us. 
 
-**在本赛道，我们鼓励选手们以通俗易懂的方式分享自己在Hackathon期间的学习成果，分享自己使用AI4Science软件的使用心得，分享自己对AI4Science的新见解和新思考。我们一起传递AI4Science知识，共同见证人工智能时代科研工具的升级换代！**
+Regrettably, these futuristic achievements are limited by their scientific attributes and lack some "fireworks". They have not been able to enter the market and become a talk after dinner like ChatGPT. In this regard, we sincerely invite all evangelists to work with the DeepModeling community to bring AI4Science knowledge to life this summer! Unleash the infinite possibilities of AI4Science together!
 
-
-## 赛题要求
-
-本赛道允许选手们脑洞大开，选择任何与AI4Science相关的创作内容，例如：
+**In this track, we encourage contestants to share their learning results during the Hackathon in an easy-to-understand manner, share their experience of using the AI4Science software, and share their new insights and new thinking about AI4Science. Let's pass on AI4Science knowledge together and witness the upgrading of scientific research tools in the era of artificial intelligence!**
 
 
-- 先进算法的底层逻辑
+## Competition Requirements
 
-- 成熟AI软件的使用心得
-
-- 前沿进展和应用领域
-
-- 文献复现的辛酸历程
-
-自己对AI4Science的思考和实践
+This track allows contestants to open their minds and choose any creative content related to AI4Science, such as:
 
 
-**我们鼓励各种内容创作形式，包括但不限于：**
+- The underlying logic of advanced algorithms
+
+- Experience in using mature AI software
+
+- Frontier progress and application areas
+
+- The bitter course of literature reproduction
+
+My own thinking and practice on AI4Science
 
 
-- Notebook笔记
-
-- Bilibili科普视频
-
-- 知乎优质文章
-
-- 小红书文献复现日记
+**We encourage all forms of content creation, including but not limited to:**
 
 
-**本赛道不为选手们的想象力划定任何边界！我们将综合考量作品的科学属性、创新性和潜在传播力等。** 
-为了让各位同学对此赛道有更多创意，下面给大家一些选题方向和形式的建议，以抛砖引玉。
+- Notebook notes
+
+- Bilibili popular science video
+
+- Zhihu high-quality articles
+
+- Xiaohongshu Literature Recovery Diary
+
+- YouTube video
+
+
+**This track does not set any boundaries for the imagination of the players! We will comprehensively consider the scientific attributes, innovation and potential dissemination of the works.**
+In order to let students have more creativity on this track, here are some suggestions for the direction and form of topic selection, so as to attract others.
 
 
 
-- **方向一：学习知识“跑”起来**
+- **Direction 1: Learn knowledge and "run"**
 
-AI4Science的学习需要一个强大且易于上手的工具。对此，我们于今年5月份发布了Notebook案例广场，创新性的将交互式编程环境纳入Bohrium科研平台中，为AI4Science初学者带来了全新的学习体验。短短两个月过去，Notebook案例广场上已经汇聚了分子动力学、深度学习、化学和生物信息学、材料计算和图像表征等几百个优秀案例。本方向鼓励大家在Notebook上动手体验前沿AI4Science模型，动手记录AI4Science心得，动手实践AI4Science创意，让学习知识“跑”起来！
+Learning AI4Science requires a powerful and easy-to-use tool. In this regard, we released the Notebook Case Plaza in May this year, innovatively integrating the interactive programming environment into the Bohrium scientific research platform, bringing a new learning experience to AI4Science beginners. In just two months, the Notebook Case Plaza has gathered hundreds of excellent cases in molecular dynamics, deep learning, chemistry and bioinformatics, materials computing and image characterization. 
 
-- **方向二：社区教程“写”出来**
+This direction encourages everyone to experience the cutting-edge AI4Science model on Notebook, record AI4Science experience, practice AI4Science creativity, and let learning knowledge "run"!
 
-DeepModeling社区的发展让越来越多的老师、同学有社区软件的学习需求。比如DeePMD-kit、ABACUS、DMFF、DeepFlame相关社群里有大量的老师同学针对相关问题进行讨论。微信群里面的讨论固然是一个好的学习手段，但为了更多人能够看到，我们更鼓励大家共同建设社区学习文档，将自己学习和科研的心得落实到学习文档上让更多的人能够学习，能够看到。本方向鼓励大家将自己过去（或正在）学习使用相关社区软件产生的案例变成文字资料，一方面撰写资料的过程有助于自己整理思路，另一方面也可以方便更多的人跟着学习。
+- **Direction 2: "Writing" community tutorials**
 
-- **方向三：精彩内容“讲”出来**
+With the development of the DeepModeling community, more and more teachers and students have learning needs of community software. For example, there are a large number of teachers and students in the related communities of DeePMD-kit, ABACUS, DMFF, and DeepFlame discussing related issues. Discussions in WeChat groups are certainly a good means of learning, but in order for more people to see them, we encourage everyone to jointly build community learning documents, and implement their own learning and scientific research experience into learning documents so that more people can To learn, to be able to see. 
 
-随着AI4Science一个个激动人心的成果出现，相关知识的学习需求越来越迫切。一方面年轻的同学们迫切希望有人能够将AI4Science相关知识传授给自己；另一方面公众也希望从科普的角度了解AI4Science的前世今生。本方向鼓励大家以课程视频的形式讲授AI4Science相关课程，清楚的将AI4Science的精彩内容“讲”出来！
+This direction encourages everyone to turn the cases generated by their past (or current) learning and use of relevant community software into written materials. On the one hand, the process of writing materials will help them organize their thoughts, and on the other hand, it will also facilitate more people to follow along.
 
-- **方向四：知识传播“酷”起来**
+- **Direction 3: "tell" the wonderful content**
 
+With the emergence of exciting achievements of AI4Science, the need for learning related knowledge is becoming more and more urgent. On the one hand, young students eagerly hope that someone can impart AI4Science-related knowledge to themselves; on the other hand, the public also hopes to understand the past and present of AI4Science from the perspective of popular science. 
 
-当今庞大的内容市场中早已涌现出一批优秀的科普作品。例如，毕导、何同学“理论+实践”的创作思路，Procreate等绘画工具，3Blue1Brown开发的Manim可视化工具也被用来制作视频科普。在AI4Science领域，除了上述Notebook笔记工具，有人尝试将分子世界和VR、游戏引擎（Unity）相结合，充满了科技感！总之，本方向鼓励内容生产者利用丰富的内容创作经验和炫酷的可视化技术将AI4Science酷起来！
+This direction encourages everyone to teach AI4Science related courses in the form of course videos, and clearly "tell" the exciting content of AI4Science!
 
-**[点击此处即可查看详细赛题内容](https://dptechnology.feishu.cn/docx/Rl03dnIqqomF0Fx8FjgcVhnonRd?from=from_copylink)**
+- **Direction 4: Make knowledge dissemination "cool"**
 
+A number of excellent popular science works have already emerged in today's huge content market. For example, Dao Bi and student He’s creative ideas of “theory and practice”, drawing tools such as Procreate, and the Manim visualization tool developed by 3Blue1Brown are also used to make video science popularization. In the field of AI4Science, in addition to the above-mentioned Notebook note-taking tools, some people try to combine the molecular world with VR and game engines (Unity), which is full of sense of technology! 
 
+In short, this direction encourages content producers to use rich content creation experience and cool visualization technology to make AI4Science cool!
+
+[Click here to view the detailed competition content](https://dptechnology.feishu.cn/docx/Rl03dnIqqomF0Fx8FjgcVhnonRd?from=from_copylink)

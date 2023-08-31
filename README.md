@@ -1,122 +1,118 @@
-# 欢迎来的DeepModeling Hackathon 3.0！
+# Welcome to the DeepModeling Hackathon 3.0!
 
-## 活动介绍
+## Introduction
 
-第三届DeepModeling Hackathon大赛北京科学智能研究院(AI for Science Institute, Beijing)与北京深势科技有限公司联合举办（[详情请点击这里](https://mp.weixin.qq.com/s?__biz=MzUxMDQwOTk4MA==&mid=2247497497&idx=1&sn=97499acbc2388e7ef7c6498b2caa89e1&chksm=f901da8ace76539ccea1fe3ed2b6f759fd22b1591ef8249a8f5ce2a278144334c91dc25a13bc&scene=21#wechat_redirect)）。
+The 3rd DeepModeling Hackathon was jointly organized by AI for Science Institute, Beijing and DP Technology Co., Ltd.([For details, please click here](https://mp.weixin.qq.com/s?__biz=MzUxMDQwOTk4MA==&mid=2247497497&idx=1&sn=97499acbc2388e7ef7c6498b2caa89e1&chksm=f901da8ace76539ccea1fe3ed2b6f759fd22b1591ef8249a8f5ce2a278144334c91dc25a13bc&scene=21#wechat_redirect) ).
 
-现在我们带着最大的诚意邀请所有人参与DeepModeling社区第三届Hackathon：
+Now we invite everyone to participate in the third Hackathon of the DeepModeling community with the greatest sincerity:
 
-- 在这里，你所有和AI4Science有关的创意将被鼓励与珍视；
+- Here, all your ideas related to AI4Science will be encouraged and cherished;
 
-- 在这里，你可以聆听领域内经验丰富的导师的耐心指导；
+- Here, You can get patient guidance from professional tutors in the field;
 
-- 在这里，你可以和一群志同道合且充满激情的伙伴并肩作战；
+- Here, you can fight side by side with a group of like-minded and passionate partners;
 
-- 在这里，你可以完成你最期待的挑战；
+- Here, you can complete your most anticipated challenges;
 
-我们提供20万的奖金池，赛场往返的车票，亦可线上参与；
+We provide a prize pool of ￥200,000, round-trip tickets to the stadium, and online participation;
 
-我们准备好了一切，期待与你一起共同释放AI4Science的无限可能！
+We have prepared everything and look forward to working with you to unleash the infinite possibilities of AI4Science!
 
-## 参与要求
+## Participation Requirements
 
+Simply, we welcome all teachers, students and industry practitioners who are interested in AI4Science.
 
-简单来说，我们欢迎一切对AI4Science感兴趣的老师和同学。
+Specifically:
 
-具体来说：
+- If you are interested in the application scenarios of AI4Science, we welcome you to use the latest AI4Science tools to explore any scenarios you want to solve problems that were not easy to solve by classical methods in the past; you are also welcome to develop more AI4Science-related tools based on specific scenarios Easy-to-use user interface and workflow.
 
-- 如果你对AI4Science的应用场景感兴趣，我们欢迎你使用最新的AI4Science工具探索任何你想要探索的场景，解决过去经典方法不好解决的问题；也欢迎你基于特定场景为AI4Science相关工具开发更好用的用户接口和工作流。
+- If you are interested in AI4Science's underlying algorithm principles and related model construction, we welcome your ideas to communicate with us, improve existing softwares or build your own softwares.
 
-- 如果你对AI4Science底层算法原理、相关模型构建感兴趣，我们欢迎你提出自己的想法和我们交流，改进现有软件或者构建你自己的软件
+- If you are interested in high-performance optimization, we welcome you to try it boldly and release the unlimited potential of software and hardware by yourself.
 
-- 如果你对高性能优化感兴趣，我们欢迎你大胆尝试，亲手释放软件与硬件的无限潜能
+- If you are interested in sharing and disseminating knowledge, we welcome you to adopt innovative ways to disseminate relevant knowledge and ideas, and spread AI4Science to more people.
 
--  如果你对分享与传播知识感兴趣，我们欢迎你采用创新的方式来传播相关知识与理念，将AI4Science传播给更多人
+Finally, if you are interested in AI4Science, but you are not sure what you can do, or even whether you are capable enough, we still strongly encourage you to sign up first to discuss and learn with everyone. Interest is the best teacher, and actual combat is the fastest way to learn. Here you will definitely find a track where you can give full play to your enthusiasm and expertise, and explore the sea of stars of AI4Science together.
 
-最后，如果你对AI4Science感兴趣，但是并不确定自己能做什么，甚至不确定自己能力是否足够，我们依然强烈鼓励你先报名进来跟着大家一起讨论学习。兴趣是最好的老师，实战是最快的学习方式，在这里一定会找到你能发挥自己热情和特长的赛道，共同探索AI4Science的星辰大海。
+## Track Introduction
 
-## 赛道介绍
+In this Hackathon, we encourage all ideas, explorations and practices related to AI4Science. For different themes, this Hackathon has set up **5** tracks:
 
-本次Hackathon我们鼓励一切和AI4Science有关的想法、探索与实践。针对不同的主题，本次Hackathon设置了5大赛道：
+**AI4Science Application Scenario Exploration (Beijing)**: This track encourages contestants to use AI4Science related software as a tool to explore the scenarios they want to explore. Contestants can use AI4Science related tools to help their research, such as using Uni-Mol to screen active molecules, using DPA-1 to explore the conformation of small molecules, using DMFF to modify the interaction between functional groups, and using DeepFlame to explore the interaction mechanism between turbulence and combustion ; You can also develop customized workflows, convenient and easy-to-use user interfaces, etc. for specified scenarios. As long as it is related to AI4Science, all application explorations are encouraged here!
 
-**AI4Science应用场景探索（北京）**：本赛道鼓励选手以AI4Science相关软件为工具，探索自己想要探索的场景。选手可以使用AI4Science相关工具助力自己的课题研究，比如使用Uni-Mol筛选活性分子、使用DPA-1进行小分子的构象探索、使用DMFF修正官能团间的相互作用、使用DeepFlame探索湍流与燃烧相互作用机制；也可以针对指定场景开发定制化工作流、方便好用的用户接口等。只要是和AI4Science有关的一切应用探索在这里都被鼓励！
+**AI4Science Hardcore Software Development (Beijing)**: This track is jointly sponsored by the DeepModeling open source community, Peking University Supercomputing Team, and Peking University Linux Club. This track encourages players to actively participate in the development of AI4Science's own tools. Students who are interested in high performance can optimize the specified software for high performance; students who are interested in AI can reconfigure certain networks. Or you find that there are some other problems in the software that you want to improve - in short, as long as it is related to AI4Science, all software development is encouraged here!
 
-**AI4Science硬核软件开发（北京）**：本赛道由DeepModeling开源社区、北京大学超算队、北京大学Linux俱乐部联合主办。本赛道鼓励选手积极参与到AI4Science本身的工具开发中。对高性能感兴趣的同学可以对指定软件进行高性能优化；对AI感兴趣的同学可以针对某些网络进行重构。又或者你发现软件中还有一些别的问题你想要改进——总之只要是和AI4Science有关的一切软件开发在这里都被鼓励！
+**AI for Biomedicine (Shanghai)**: This track encourages contestants to use AI4Science related software tools to try to solve problems of general concern in the field of biomedicine. It is hoped that the contestants can propose solutions to the existing application scenarios in the field of biomedicine, such as various property predictions, target predictions, combination mode exploration and molecular generation and other practical scenarios; at the same time, contestants are encouraged to try to use different software and tools, such as Uni -Mol explores a certain field in depth - in short, as long as it is related to AI4Science and biomedicine, all explorations are encouraged here!
 
-**AI for 生物医药（上海）**：本赛道鼓励选手针对生物医药领域普遍关心的问题，使用AI4Science相关软件工具尝试解决。希望选手能够可以针对生物医药领域中目前已有的应用场景提出解决方案，如各种性质预测，靶标预测，结合模式探究及分子生成等实际场景；同时鼓励选手尝试使用不同软件与工具，比如Uni-Mol深入探索某个领域——总之只要是和AI4Science与生物医药有关的一切探索在这里都被鼓励！
+**AI for ElectroChemistry (Xiamen)**: This track is co-sponsored by the DeepModeling open source community and Kah Kee Innovation Laboratory Artificial Intelligence Applied Electrochemistry Joint Laboratory (AI4EC), aiming to encourage students who want to explore various materials related to the battery field For contestants with electrochemical properties, use AI4Science related software tools to develop workflows for the calculation of properties such as material redox potential and reaction free energy change in a certain system or in a certain environment; it can also be used to solve a certain Specific problems, in short, if you are eager to use materials to continuously define energy, you are welcome to join the exploration journey of AI for Electrochemistry.
 
-**AI for ElectroChemistry（厦门）**：本赛道由DeepModeling开源社区、嘉庚创新实验室人工智能应用电化学联合实验室（AI4EC）联合主办，旨在鼓励希望探索各类电池领域相关材料的电化学性质的选手，运用AI4Science相关软件工具，用于开发针对某一体系，或某一环境下，诸如材料氧化还原电位、反应自由能变等性质计算的工作流；也可以用于解决某一特定的问题，总之，如果你渴望用材料来不断定义能源，欢迎你加入AI for Electrochemistry的探索之旅。
+**AI4Science Evangelism (Beijing)**: This track encourages contestants to spread AI4Science related knowledge and ideas to others in innovative ways. The content of the explanation can be a cutting-edge paper of AI4Science, its own scientific research results, or interesting popular science knowledge; the form can consider course videos, Bohrium Notebook cases, wikipedia or more flexible short videos, Xiaohongshu, etc.—— In short, as long as the spread of ideas related to AI4Science is encouraged here!
 
-**AI4Science布道（北京）**：本赛道鼓励选手采用创新的方式向他人传播AI4Science相关知识和理念。讲解内容可以是AI4Science某个前沿论文，可以是自己的科研成果，也可以是有趣的科普知识；形式可以考虑课程视频、Bohrium Notebook案例，wikipedia或者更灵活的短视频、小红书等等——总之，只要是和AI4Science有关的一切理念传播在这里都被鼓励！
+The above is the overall track classification of Hackathon. All ideas related to AI4Science are welcome.
 
-以上是Hackathon总体赛道分类，大家所有和AI4Science有关的创意都被欢迎。
+## Competition System Introduction
 
-## 赛制介绍
+In order to encourage everyone to quickly learn relevant knowledge in the Hackathon and actively display the spirit of innovation, this Hackathon has set up preliminary and final competitions, and adopts a team system. The details are as follows:
 
-为了最大限度鼓励大家在Hackathon中快速学习相关知识，主动发挥创新精神，本次Hackathon设置初赛和决赛，采用组队制，具体如下：
+- **Preliminary round**:
 
-- 初赛：
+   - Format: Online Participation
 
-  - 形式：线上参与
-  
-  - 以学员学习为主，在我们帮助下快速学习和掌握AI4Science相关知识与软件技能，为决赛做好准备
+   - Focus on student learning, quickly learn and master AI4Science related knowledge and software skills with our help, and prepare for the final
 
-- 决赛：
+- **Finals**:
 
-  - 形式：允许线上，但是更鼓励线下共同探索交流（进入决赛选手报销线下到相关赛场来回车票）
-  
-  - 以创新和挑战为主，完成自选或者指定的Hackathon相关挑战
-  
-- 允许组队，每队1-2人（仅队长填写报名问卷即可）
+   - Form: Online is allowed, but offline joint exploration and communication is more encouraged (finalists will be reimbursed offline round-trip tickets to relevant venues)
 
-## 时间安排
+   - Focus on innovation and challenge, and complete Hackathon-related challenges of your own choice or designated
 
-DeepModeling社区第三届Hackathon将于6月27日开始报名，7月8日正式开始。比赛将于8月6日进行决赛评比，并于8月10日暨第二届科学智能峰会现场进行颁奖。具体时间安排如下：
+- Teams are allowed, with 1-2 people per team (only the captain can fill out the registration questionnaire)
 
-Hackathon宣讲、组队、报名时间：**6月27日-7月7日**
+## Competition Timeline
 
-Hackathon初赛：**7月8日-7月14日**
+The third Hackathon of the DeepModeling community will start registration on June 27th and officially start on July 8th. The final competition will be judged on August 6, and the awards will be presented on August 10 and the 2nd Science Intelligence Summit. The specific schedule is as follows:
 
-初赛结果公布：**7月15日-7月16日**
+Hackathon presentation, team formation, and registration time: **June 27-July 7**
 
-Hackathon决赛：**7月17日-8月5日**
+Hackathon Preliminary Round: **July 8-July 14**
 
-决赛答辩：**8月6日-8月7日**
+Announcement of preliminary results: **July 15-July 16**
 
-Hackathon颁奖：**8月10日**
+Hackathon final: **July 17th - August 5th**
 
-  (具体时间可能会根据实际情况灵活调整)
+Final defense: **August 6-August 7**
 
-## 具体赛题
+Hackathon Awards: **August 10th**
 
-#### 初赛赛题
+   (The specific time may be adjusted flexibly according to the actual situation)
 
-#### 1. AI4Science应用场景探索赛道: [详细内容点击此处](https://dptechnology.feishu.cn/docx/G5IAdItjIonSi1xG8HBc6IWbnEb?from=from_copylink)
+## Specific Competition Questions
 
+### Preliminary Competition Questions
 
-#### 2. AI4Science硬核软件开发: [详细内容点击此处](https://dptechnology.feishu.cn/docx/QGfHdUHrEowMi4xYkJuchN9Rnbh?from=from_copylink)
+#### 1. AI4Science Application Scenario Exploration Track: [Click here for details](https://dptechnology.feishu.cn/docx/G5IAdItjIonSi1xG8HBc6IWbnEb?from=from_copylink)
 
 
-#### 3. AI for 生物医药: [详细内容点击此处](https://dptechnology.feishu.cn/docx/S08Hddzo7oxsjsx6chlc4BAinEf?from=from_copylink)
+#### 2. AI4Science Hardcore Software Development: [Click here for details](https://dptechnology.feishu.cn/docx/QGfHdUHrEowMi4xYkJuchN9Rnbh?from=from_copylink)
 
 
-#### 4. AI for ElectroChemistry: [详细内容点击此处](https://dptechnology.feishu.cn/docx/UJIwdMKf6oMhMjxRQcfciR8onyc?from=from_copylink)
+#### 3. AI for Biomedicine: [Click here for details](https://dptechnology.feishu.cn/docx/S08Hddzo7oxsjsx6chlc4BAinEf?from=from_copylink)
 
 
-#### 5. AI4Science布道: [详细内容点击此处](https://dptechnology.feishu.cn/docx/Rl03dnIqqomF0Fx8FjgcVhnonRd)
+#### 4. AI for Electrochemistry: [Click here for details](https://dptechnology.feishu.cn/docx/UJIwdMKf6oMhMjxRQcfciR8onyc?from=from_copylink)
 
 
-## 参与方式
+#### 5. AI4Science Evangelism: [Click here for details](https://dptechnology.feishu.cn/docx/Rl03dnIqqomF0Fx8FjgcVhnonRd)
 
-1. 扫描二维码加入Hackathon交流群，欢迎在群里交流一切Hackathon相关的问题。（请务必入群，后续通知都将在群内进行）
+
+## Registration Way
+
+1. Scan the QR code to join the Hackathon exchange group. Welcome to exchange all Hackathon-related issues in the group. (Please be sure to join the group, follow-up notifications will be carried out in the group)
 
 <img src="https://github.com/Letian88/Hackathon2023/assets/91178477/d9a98bcb-963a-4d27-92c2-e0b7e06342ab" width=30%>
 
-如果二维码无法加入，可扫码添加深度势能小编微信：deeppotential，小编会手动拉你入群）
+If the QR code cannot be added, you can scan the code to add Deep Potential editor WeChat: deeppotential, editor will manually pull you into the group
 
-3. 请大家选择好赛道后，请在7月8日前扫描下方二维码，填写问卷报名。
+2. After choosing the track, please scan the QR code below and fill out the questionnaire to register before July 8.
 
 <img src="https://github.com/Letian88/Hackathon2023/assets/91178477/7ea4745d-f455-46cb-ba84-9b4736440ad9#pic_center=50x" width=25%>
-
-
-
